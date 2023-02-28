@@ -1,0 +1,10 @@
+2) В ветке master есть 2 ветки, в ветке demo при разработке boots появляется 3 ветка.
+
+4) 7 коммитов (включая один мой)
+init
+heat added
+README added
+fix readme
+boots
+dots
+Merge remote-tracking branch 'origin/hat'
